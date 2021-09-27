@@ -21,3 +21,13 @@ but+名词1(the force)+定语(of geographic conditions+形容词短语(peculiar 
 Monday September 20, 2021 23:55:40 
 
 ---------
+
+> But even as the number of English speakers expands further there are signs that the global predominance of the language may fade within the foreseeable future.
+
+![image](https://raw.githubusercontent.com/koneMorris1625/myGitImageRepo/develop/newLife/20210927/214557019.png)
+
+---
+
+![image](https://raw.githubusercontent.com/koneMorris1625/myGitImageRepo/develop/newLife/20210927/213504450.png)
+
+ Monday September 27, 2021 21:35:39 
