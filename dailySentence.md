@@ -31,3 +31,46 @@ Monday September 20, 2021 23:55:40
 ![image](https://raw.githubusercontent.com/koneMorris1625/myGitImageRepo/develop/newLife/20210927/213504450.png)
 
  Monday September 27, 2021 21:35:39 
+
+---
+
+> O’Neill suggested that the school system’s attendance policy is not working and needs rethinking. She also won board support for a measure that called for a review of policies on academic eligibility for sports and other activities. Extracurricular activities can keep students invested  in school — and work against absenteeism or dropping out, she said. 
+
+思考题：O’Neill and many board members hold that_________
+
+（A）extracurricular activities should be limited to increase attendance rate.
+（B）policies on academic eligibility for sports and other activities need rethinking. 
+（C）the school system’s attendance policy works effectively against absenteeism.
+（D）sports and other activities  keep students spend more money in school.
+
+词汇：
+
+1. eligibility (名词)资格；合格；具备条件；
+eligible （形容词）有资格的；合格的；具备条件的:
+eligible for sth (有资格获得…)
+eligible to do sth (有资格做…)
+2. Extracurricular activities 课外活动
+3. keep sb invested in sth 使某人投入时间或者精力到…
+
+解析：
+
+   第一句：
+O’Neill suggested that the school system’s attendance policy is not working and needs rethinking.
+参考译文：O’Neil 表示学校的出勤系统政策不起作用需要重新思考
+
+  第二句：
+She also won board support for a measure that called for a review of policies on academic eligibility for sports and other activities.
+参考译文：她还赢得了董事会在一项措施的支持，这项措施要求对参与体育和其他活动的学术资格政策进行审查。
+
+  第三句：
+Extracurricular activities can keep students invested in school — and work against absenteeism or dropping out, she said. 
+参考译文：她说到，课外活动能够使学生把时间和精力投入到学校中，这可以抵抗“逃学主义”和辍学。
+B
+
+==================================
+
+![image](https://raw.githubusercontent.com/koneMorris1625/myGitImageRepo/develop/newLife/20210930/234356543.jpg)
+
+![image](https://raw.githubusercontent.com/koneMorris1625/myGitImageRepo/develop/newLife/20210930/234524964.jpg)
+
+Thursday September 30, 2021 23:44:30 
