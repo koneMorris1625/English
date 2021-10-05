@@ -43,3 +43,21 @@
     ![image](https://raw.githubusercontent.com/koneMorris1625/myGitImageRepo/develop/newLife/20211002/224414589.png)
 
     > metal -- medal -- melt -- weld -- wed
+
+----
+
+con --> com --> completely 
+来, 全都, 一起 --> 表强调
+```js
+text  n. 文字；vt. 发短信, 编织
+textile n. 纺织品
+textual a. 文本的   textual environment, textual analysis
+context n. 上下文, 环境, 语境
+contextual a. 语境的, 与上下文有关的  contextual meaning
+
+test
+contest vt. 提出异议, 竞争;  n. 竞赛
+
+ten / tain --> take in  拿抓
+content 
+```
