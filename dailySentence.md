@@ -74,5 +74,3 @@ B
 ![image](https://raw.githubusercontent.com/koneMorris1625/myGitImageRepo/develop/newLife/20210930/234524964.jpg)
 
 Thursday September 30, 2021 23:44:30 
-----
-![i](https://mmbiz.qpic.cn/sz_mmbiz_png/GuZ2tMG8iakPMjOJcBXKicsic8bEsZPlbTBgMghWV6flYdRiatpnFAQHWZibVlxFosE4zgsPvh1RcwArdPORw83JHRg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
