@@ -58,3 +58,46 @@ u look stress.
 Already? What happened?
 * Just work. I had a newing project that's taking forever.
 ```
+
+7. TGIF 
+
+abbr. => Thank God, it's Friday.
+
+```html
+Ugh! Thank god, it's Friday!
+- No kidding! U going out tonight?
+No way! I've got FNL
+- Have fun~~
+```
+
+8. That's pure nonsense
+=> That's not the true. come on! I don't believe that.
+
+```html
+U're sitting too close to the TV.
+- I'm comfortable.
+U eyesight is going to get bad.
+- That's pure nonsense!
+```
+
+9. Did u get out shoping/ ~ing/to do?
+
+=> go shoping/walking/hunting/dancing/to eat...
+
+```html
+Did u get out hunting this weekend?
+- Yesterday morning.
+Did u get anything? 
+- Nothing but really cold feet!
+```
+
+10.(to) do away with sth.
+do away with that girls/boys...
+```html
+I need to do away with my knuckle cracking.
+- It's a hard habit to break;
+I know.It's almost impossible.
+- Want me to help? 
+```
+<!-- 
+11. (to) do sth./it up  -->
