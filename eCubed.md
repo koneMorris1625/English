@@ -1,4 +1,4 @@
-1. I am going to kick back.
+01. I am going to kick back.
 I am going to --> I am gonna --> `Ahm menuh` kick back
 
 ```js
@@ -8,7 +8,7 @@ u are so lazy!
     - > hey, I had a long week.
 ```
 
-2. I slept in.
+02. I slept in.
 
 ```html
 u look refreshed.
@@ -17,7 +17,7 @@ I wish I could.I've got kids.
 - That's why I never marry!
 ```
 
-3. I overslept!
+03. I overslept!
 
 ```html
 Where have u been?
@@ -26,7 +26,7 @@ Again?
 * I'm sorry. It won't happen again~
 ```
 
-4. I'm gonna stock up on books/beer/food/water....
+04. I'm gonna stock up on books/beer/food/water....
 stock🔄up🔄on
 => buy something a lot.
 
@@ -37,7 +37,7 @@ What about cookies?
 - Those, too!
 ```
 
-5. I'm counting on u.
+05. I'm counting on u.
 => I trust u. I rely on u.
 uhm count [t:😶] ing oniu
 
@@ -48,7 +48,7 @@ I'm counting on u.
 * Don't worry! I'll be there.
 ```
 
-6. I had a long week
+06. I had a long week
 => difficult week
 I ad law week.
 
@@ -59,7 +59,7 @@ Already? What happened?
 * Just work. I had a newing project that's taking forever.
 ```
 
-7. TGIF 
+07. TGIF 
 
 abbr. => Thank God, it's Friday.
 
@@ -70,7 +70,7 @@ No way! I've got FNL
 - Have fun~~
 ```
 
-8. That's pure nonsense
+08. That's pure nonsense
 => That's not the true. come on! I don't believe that.
 
 ```html
@@ -80,24 +80,82 @@ U eyesight is going to get bad.
 - That's pure nonsense!
 ```
 
-9. Did u get out shoping/ ~ing/to do?
+09. Did u get out shoping/ ~ing/to do?
 
 => go shoping/walking/hunting/dancing/to eat...
 
 ```html
 Did u get out hunting this weekend?
 - Yesterday morning.
-Did u get anything? 
+Did u get anything?
 - Nothing but really cold feet!
 ```
 
 10.(to) do away with sth.
 do away with that girls/boys...
+
 ```html
 I need to do away with my knuckle cracking.
 - It's a hard habit to break;
 I know.It's almost impossible.
-- Want me to help? 
+- Want me to help?
 ```
-<!-- 
-11. (to) do sth./it up  -->
+
+11. (to) do sth./it up 
+
+have a good time 
+
+```html
+Are u gonna do it up for ur mom's birthday?
+- No we've just gonna have a nice dinner at home.
+No party?
+- She said she didn't want one.
+```
+
+12. do up dress/shirt/coat...
+
+=> so cold, do up ur coat
+
+```html
+Is it cold outside, mom?
+- yes, Be sure to do up ur jacket.
+Okay. Where's my hat?
+- It's in ur pocket.
+```
+
+13. (to) do it over
+
+=> do it again~
+
+```html
+How do u like my picture, daddy?
+- What's it?
+It's a picture of a bear.
+- oh...um... u should do it over.
+```
+
+Tuesday October 18, 2021 20:37:57 
+
+14. because of sth.
+
+because of toothache, I **could not** eat hard food
+
+```html
+Why didn't u call me last night?
+- because of my phone's battery~~
+Why didn't u charge it?
+- because of my carelessness. I left my cord at school~
+```
+15. Thanks to sth.
+
+positive than `because of`
+
+```html
+Ur skin looks healthy!
+- It's all thanks to this lotion.
+Ur mean, thanks to me for buying u the lotion!
+- Right^^
+```
+
+16. Check back in a jiffy
+
