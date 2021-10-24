@@ -1,11 +1,14 @@
-[metrics/source/plugin/wakatime](https://github.com/lowlighter/metrics/tree/master/source/plugins/wakatime)
-Hi, thanks to your amazing works, I deployed my README.md successfully. But there still some confused me. 
-When I used **the last option** `.user.login`, `metrics.plugin.wakatime.svg` always told me: `API returned 404`; but if I make `plugin_wakatime_user: current`, the default one, it's working. So could you tell me why use it `.user.login`?
+Hi, thanks to your amazing works, I deployed my `README.md` successfully. But there still some confused me. 
 
+The first time try to deploy, I follow [plugin/wakatime](https://github.com/lowlighter/metrics/tree/master/source/plugins/wakatime) and used **the last option** where the emoji point, the value is: `.user.login`, then`metrics.plugin.wakatime.svg` returned always told me: `API returned 404`; but if I make `plugin_wakatime_user: current`, the default one, it's working.
+
+I have find your [`action.yml`](https://github.com/lowlighter/metrics/blob/master/action.yml) in about 1200 lines, say `current` is default one as well.
+
+So could you tell me why there is `.user.login`?
 ```markdown
 #### ℹ️ Examples workflows
 
-[➡️ Available options for this plugin](metadata.yml)
+[Available options for this plugin](metadata.yml)
 
     ```yaml
     - uses: lowlighter/metrics@latest
@@ -20,5 +23,4 @@ When I used **the last option** `.user.login`, `metrics.plugin.wakatime.svg` alw
         ➡️ plugin_wakatime_user: .user.login                         # User  
     ```
 ```
-Another bothers me is that the branch. Once workflow general one branch. 
-I wish my poor English make your know all above. Thanks for your did!
+I wish my poor English makes you know all above. Thanks for your did once again!
