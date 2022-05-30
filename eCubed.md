@@ -146,6 +146,7 @@ Why didn't u call me last night?
 Why didn't u charge it?
 - because of my carelessness. I left my cord at school~
 ```
+
 15. Thanks to sth.
 
 positive than `because of`
@@ -158,4 +159,23 @@ Ur mean, thanks to me for buying u the lotion!
 ```
 
 16. Check back in a jiffy
+in a second; in a minute; immediately; 
 
+```html
+* Hi, are my copies done?
+- Not yet; Check back in a jiffy.
+* All right. I'll go get a latte and come back.
+- They'll be done for you.
+```
+
+17. Pick your poison
+pick which food you like (but not healthy 4 u)
+
+```html
+* Ooh, these all look good!
+- pick ur poison.
+* Hmmm... I'll have the peanut butter cookie.
+- Good! I want the triple chocolate!
+```
+
+18. 
